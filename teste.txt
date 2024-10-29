@@ -2,3 +2,8 @@ testando git para versionamento
 escrevendo nova linha
 outra linha
 nova linha
+
+testando git para versionamento
+escrevendo nova linha
+outra linha
+nova linha
